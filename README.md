@@ -1,4 +1,3 @@
-#CS210-Corner-Grocer
 # Corner Grocer Item Tracking System
 
 ## Project Overview
